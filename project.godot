@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Relaxing Chicken Farm"
+run/main_scene="res://Farm/FarmScene.tscn"
 config/icon="res://icon.png"
 
 [rendering]
